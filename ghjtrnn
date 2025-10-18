@@ -1,7 +1,7 @@
 from telegram import Update, ReplyKeyboardMarkup, KeyboardButton
 from telegram.ext import Application, CommandHandler, MessageHandler, filters, ContextTypes
 
-BOT_TOKEN = "7374942440:AAH7WORA6g96LFFkg_vPSoMECkMNKvhxyeY"
+BOT_TOKEN = ""
 
 # Клавиатура с кнопками
 def get_main_keyboard():
